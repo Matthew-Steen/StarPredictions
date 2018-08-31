@@ -1,0 +1,21 @@
+# COLUMN tce_plnt_num:   Planet Number
+# COLUMN tce_period:     Orbital Period [days]
+# COLUMN tce_period_err: Orbital Period Unc. [days]
+# COLUMN tce_ror:        Planet-Star Radius Ratio
+# COLUMN tce_ror_err:    Planet-Star Radius Ratio Unc.
+# COLUMN tce_dor:        Planet-Star Distance over Star Radius
+# COLUMN tce_dor_err:    Planet-Star Distance over Star Radius Unc.
+# COLUMN tce_incl:       Inclination [deg]
+# COLUMN tce_incl_err:   Inclination Unc. [deg]
+# COLUMN tce_duration:   Transit Duration [hrs]
+# COLUMN tce_duration_err: Transit Duration Unc. [hrs]
+# COLUMN tce_prad:       Planetary Radius [Earth radii]
+# COLUMN tce_prad_err:   Planetary Radius Unc. [Earth radii]
+# COLUMN tce_eqt:        Equilibrium Temperature [K]
+# COLUMN tce_eqt_err:    Equilibrium Temperature Unc. [K]
+# COLUMN tce_steff:      Stellar Effective Temperature [K]
+# COLUMN tce_steff_err:  Stellar Effective Temperature Unc. [K]
+# COLUMN tce_slogg:      Stellar Surface Gravity [log10(cm/s**2)]
+# COLUMN tce_slogg_err:  Stellar Surface Gravity Unc. [log10(cm/s**2)]
+# COLUMN tce_sradius:    Stellar Radius [Solar radii]
+# COLUMN tce_sradius_err: Stellar Radius Unc. [Solar radii]
